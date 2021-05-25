@@ -1,2 +1,4 @@
 # 15_Javascript_Projects
-From Youtub
+From Youtube
+
+15 projects to learn vanilla javascript
